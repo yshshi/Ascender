@@ -38,5 +38,5 @@ python main.py
 
 ---
 
-Made with ❤️ by Yashkant Singh
+Made with ❤️ by Yash Singh
 
